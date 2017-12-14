@@ -120,3 +120,5 @@ When it comes to extensions and future directions, I would like to highlight fol
 * Experiment with other possible data augmentation techniques.
 * When we are driving a car, our actions such as changing steering angles and applying brakes are not just based on instantaneous driving decisions. In fact, curent driving decision is based on what was traffic/road condition in fast few seconds. Hence, it would be really interesting to seee how Recurrent Neural Network (**RNN**) model such as **LSTM** and **GRU** perform this problem.
 * Finally, training a (deep) reinforcement agent would also be an interesting additional project.
+
+*END of README.md*
